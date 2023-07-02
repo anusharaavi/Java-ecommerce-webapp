@@ -10,7 +10,7 @@ pipeline
   }
   stages
   {
-    stage(build and test)
+    stage('build and test')
     {
       steps
       {
